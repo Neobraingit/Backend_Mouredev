@@ -1,7 +1,7 @@
 ### Type hints ###
 
 ''''
-En Fast Api tenemos que indicar siempre que tipo de dato es una variable
+En Fast Api tenemos que indicar siempre qué tipo de dato es una variable
 '''
 
 my_string = 'My string variable'
